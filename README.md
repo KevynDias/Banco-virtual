@@ -22,11 +22,11 @@ Projeto de estudo desenvolvido em Python: um caixa eletrônico simples que roda 
 ## ▶️ Como executar
 
 1. Instale o [Python 3](https://www.python.org/downloads/)
-2. Baixe o arquivo `caixa_eletronico.py`
+2. Baixe o arquivo `main.py`
 3. No terminal, execute:
 
 ```bash
-python caixa_eletronico.py
+python main.py
 ```
 
 ## 💻 Exemplo de uso
